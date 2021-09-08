@@ -9,7 +9,7 @@
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
 <br /> <br/>
- <img align="left" height="210" width="210" alt="GIF" src="https://github.com/CyberneTech/CyberneTech/blob/main/giphy.gif" /> 
+ <img align="left" height="210" width="210" alt="GIF" src="https://media0.giphy.com/media/7VzgMsB6FLCilwS30v/giphy.gif" /> 
  <p>
 I am Shruti Jain 🙋‍ student at VIT, majoring in Computer Science Engineering. <br/ >
 - 🔭 I’m currently working on ...
