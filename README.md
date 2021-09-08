@@ -17,6 +17,6 @@
 👯 I’m looking to collaborate on ...<br/>
 🤔 I’m looking for help with ...<br/>
 💬 Ask me about ...<br/>
-📫 Reach out to me via ![LinkedIn](https://www.linkedin.com/in/shruti-j-08a399196/) or drop me an ![email](mailto:sh2000.cool.j@gmail.com) and I would be happy to respond! <br/>
+📬 Reach out to me via [LinkedIn](https://www.linkedin.com/in/shruti-j-08a399196/) or drop me an [email](mailto:sh2000.cool.j@gmail.com) and I would be happy to respond! <br/>
 ⚡ Fun fact: ...
 
