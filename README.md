@@ -10,13 +10,13 @@
 </a>
 <br /> <br/>
 <img align="left" height="210" width="210" alt="GIF" src="" />
-I am Shruti Jain 🙋‍ student at VIT, majoring in Computer Science Engineering. <br/ >
+# I am Shruti 🙋‍ student at VIT, majoring in Computer Science Engineering. <br/ >
 
 🔭 I’m currently working on ...<br/>
 🌱 I’m currently learning ...<br/>
 👯 I’m looking to collaborate on ...<br/>
 🤔 I’m looking for help with ...<br/>
 💬 Ask me about ...<br/>
-📫 Reach out to me via LinkedIn or drop me an email and I would be happy to respond! <br/>
+📫 Reach out to me via ![LinkedIn](https://www.linkedin.com/in/shruti-j-08a399196/) or drop me an ![email](mailto:sh2000.cool.j@gmail.com) and I would be happy to respond! <br/>
 ⚡ Fun fact: ...
 
