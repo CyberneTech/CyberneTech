@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/shruti-j-08a399196/">Shruti Jain</a></h2>
-<h3>student at VIT, majoring in Computer Science Engineering<h3>
+student at VIT, majoring in Computer Science Engineering
 <a href="https://www.instagram.com/shru.tiff/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -10,7 +10,7 @@
 <li>🧐 I am currently learning about <strong>cloud computing</strong></li>
 <li>👨‍💻 I’m currently working on ...</li>
 <!-- <li>👯 I’m looking to collaborate on ...</li> -->
-<li>💬 Ping me about <strong>python, web development, security, and cloud stuff</strong>.</li>
+<li>💬 Ask me about <strong>web development</strong>.</li>
 <!--<li>📙 Check out my <a href="">resume</a>.</li> -->
 </ul>
 <br/>
