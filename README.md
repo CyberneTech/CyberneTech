@@ -1,10 +1,7 @@
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/shruti-j-08a399196/">Shruti Jain</a></h2>
 student at VIT, majoring in Computer Science Engineering
-<a href="https://www.instagram.com/shru.tiff/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <br /> 
-<img align="right" src="https://media1.tenor.com/images/0d1329f5ff7d31712e3d12ce160df6ec/tenor.gif" height="200"/>
+<img align="right" src="https://media.tenor.com/images/d41a7004a8815e01f8fc6b4c07383640/tenor.gif" height="200"/>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🧐 I am currently learning about <strong>cloud computing</strong></li>
@@ -18,4 +15,4 @@ student at VIT, majoring in Computer Science Engineering
 📬 Reach out to me via [LinkedIn](https://www.linkedin.com/in/shruti-j-08a399196/) or drop me an [email](mailto:sh2000.cool.j@gmail.com) and I would be happy to respond! <br/>
 
 ![CyberneTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberneTech&count_private=true&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberneTech&layout=compact)](https://github.com/CyberneTech/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberneTech&layout=compact&theme=tokyonight)](https://github.com/CyberneTech/github-readme-stats)
