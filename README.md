@@ -4,10 +4,10 @@ student at VIT, majoring in Computer Science Engineering
 <img align="right" src="https://media.tenor.com/images/d41a7004a8815e01f8fc6b4c07383640/tenor.gif" height="200"/>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🧐 I am currently learning about <strong>cloud computing</strong></li>
-<li>👨‍💻 I’m currently working on ...</li>
-<!-- <li>👯 I’m looking to collaborate on ...</li> -->
-<li>💬 Ask me about <strong>web development</strong>.</li>
+<li>🧐 I am currently learning about <strong>Cloud computing</strong></li>
+<li>👨‍💻 I’m currently working on <strong>Full Stack Development</strong></li>
+<li>👯 I would be happy to collaborate on projects</li>
+<!--<li>💬 Ask me about <strong>web development</strong>.</li> -->
 <!--<li>📙 Check out my <a href="">resume</a>.</li> -->
 </ul>
 <br/>
